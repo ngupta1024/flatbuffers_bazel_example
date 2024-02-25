@@ -1,0 +1,7 @@
+// schema.fbs
+table Dummy {
+    id: int;
+    name: string;
+}
+
+root_type Dummy;
